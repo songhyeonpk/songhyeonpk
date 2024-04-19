@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br><br>
+<br>
 <div align="center">
   <h2>💬&nbsp;&nbsp;im</h2>
   <p>백엔드 서버 개발에 궁금함과 관심이 많은 소면입니다.</p>
@@ -30,6 +30,7 @@ Here are some ideas to get you started:
   <div>
     <img src="https://img.shields.io/badge/Java-778899?style=flat-square&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-778899?style=flat-square&logo=springboot&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JPA-778899?style=flat-square"/>
     <img src="https://img.shields.io/badge/Gradle-778899?style=flat-square&logo=Gradle&logoColor=white"/>
   </div>
   <div>
@@ -42,3 +43,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Github Actions-778899?style=flat-square&logo=githubactions&logoColor=white"/>
   </div>
 </div>
+<br>
