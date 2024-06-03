@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <p>백엔드 서버 개발에 궁금함과 관심이 많은 소면입니다.</p>
   <p>개발로 어떤 문제를 해결하고 어떤 가치를 만들어내는지에 중점을 두고 항상 고민하는 개발자가 되고자 노력하고 있습니다.</p>
   <p>지속적으로 새로운 도전과 기회를 통해 항상 배우고</p> 
-  <p>기술적인 성장을 넘어 긍적적인 영향을 공유하는 서버 개발자로 꾸준히 성장하는 것이 목표입니다 :)</p>
+  <p>긍적적인 영향을 공유하는 서버 개발자로 꾸준히 성장하는 것이 목표입니다 :)</p>
   <a style="text-decoration:none;" href="https://github.com/songhyeonpk">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/songhyeonpk"/>
   </a>
