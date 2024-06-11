@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Redis-778899?style=flat-square&logo=Redis&logoColor=white"/>
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Amazon AWS-778899?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Amazon AWS-778899?style=flat-square&logo=Amazon Web Services&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-778899?style=flat-square&logo=Docker&logoColor=white"/>
     <img src="https://img.shields.io/badge/Github Actions-778899?style=flat-square&logo=githubactions&logoColor=white"/>
   </div>
