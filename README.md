@@ -32,7 +32,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Java-778899?style=flat-square&logo=OpenJDK&logoColor=white"/>
     <img src="https://img.shields.io/badge/Spring Boot-778899?style=flat-square&logo=springboot&logoColor=white"/>
     <img src="https://img.shields.io/badge/JPA-778899?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Gradle-778899?style=flat-square&logo=Gradle&logoColor=white"/>
   </div>
   <div>
     <img src="https://img.shields.io/badge/MySQL-778899?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -41,7 +40,11 @@ Here are some ideas to get you started:
   <div>
     <img src="https://img.shields.io/badge/Amazon AWS-778899?style=flat-square&logo=Amazon Web Services&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-778899?style=flat-square&logo=Docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Docker Compose-778899?style=flat-square&logo=Docker-Compose&logoColor=white"/>
+  </div>
+  <div>
     <img src="https://img.shields.io/badge/Github Actions-778899?style=flat-square&logo=githubactions&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jenkins-778899?style=flat-square&logo=jenkins&logoColor=white"/>
   </div>
 </div>
 <br>
